@@ -1,1 +1,0 @@
-# busel-temperature-method
